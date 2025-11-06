@@ -11,3 +11,8 @@
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/Jenkins-d33833?style=for-the-badge&logo=jenkins&logoColor=white)
+![image](https://img.shields.io/badge/JCL-0080c9?style=for-the-badge)
+![image](https://img.shields.io/badge/REXX-d81211?style=for-the-badge)
+![image](https://img.shields.io/badge/Jira-1a69db?style=for-the-badge&logo=jira&logoColor=white)
+
