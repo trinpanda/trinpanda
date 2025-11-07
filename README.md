@@ -1,6 +1,6 @@
 # Hello, I'm Trinity! 👋
 
-## I am a student at Western Carolina University studying Computer Science. 
+## I am a Software Engineer at 21st Century Software. 
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
